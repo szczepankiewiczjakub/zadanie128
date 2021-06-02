@@ -1,1 +1,3 @@
-Master: pierwsza linia
+featureA: zmodyfikowana pierwsza linia
+master: linia 2
+featureB: linia 3
